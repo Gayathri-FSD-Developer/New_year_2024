@@ -194,13 +194,13 @@ html{
       0% {
         right: 0%;
       }
-      66.6666% {
+     70% {
         right: 50%;
-        margin-right: -220px;
+        margin-right: -180px;
       }
       90% {
         right: 50%;
-        margin-right: -200px;
+        margin-right: -190px;
       }
       100% {
         right: 50%;
@@ -248,7 +248,7 @@ html{
     }
     40% {
       right: 50%;
-      margin-right: -260px;
+      margin-right: -220px;
     }
     50% {
       right: 50%;
